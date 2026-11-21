@@ -1,0 +1,516 @@
+change_id,part_id,part_name,change_type,request_date,due_date,status,priority,supplier,quality_score
+EC0001,P095,Clutch Plate,Design Update,2026-02-27,2026-03-07,In Progress,High,Supplier A,93.0
+EC0002,P076,Drive Shaft,Design Update,2026-10-07,2026-10-19,Open,Urgent!!,Supplier B,64.0
+EC0003,P004,,Design Update,2026-09-16,2026-10-31,Pending,High,,87.0
+EC0004,P098,Shock Absorber,Design Update,2026-05-23,2026-05-30,Pending,Medium,Supplier C,59.0
+EC0139,P014,Wheel Bearing,Supplier Change,2026-04-21,2026-05-19,Open,Medium,Supplier C,0.0
+EC0006,P094,Engine Mount,Material Change,2026-05-16,2026-05-25,Open,Medium,Supplier A,85.0
+EC0007,P074,Air Filter,Material Change,2026-05-31,2026-06-30,Open,Urgent!!,Supplier B,99.0
+EC0008,P030,,Design Update,2026-05-29,2026-06-10,Pending,Medium,Supplier D,90.0
+EC0009,P048,Oil Pump,Design Update,2026-07-06,2026-07-23,Completed,Low,Supplier A,88.0
+EC0010,P094,,Design Update,2026-03-29,not_available,Pending,Medium,Supplier C,90.0
+EC0011,P088,Oil Pump,Design Update,2026-10-13,2026-11-03,in progress,High,Supplier C,75.0
+EC0012,P028,Alternator,Material Change,2026-05-18,not_available,Completed,High,Supplier D,75.0
+EC0013,P034,Steering Gear,Design Update,2026-08-23,2026-09-08,Completed,Low,Supplier E,77.0
+EC0014,P047,Air Filter,Design Update,2026-10-26,2026-11-27,Pending,High,Supplier A,57.0
+EC0015,P088,Drive Shaft,Material Change,2026-03-20,2026-04-06,Open,Medium,Supplier D,88.0
+EC0016,P033,Radiator,Design Update,2026-08-28,2026-10-07,Open,Low,Supplier E,98.0
+EC0017,P015,Clutch Plate,Supplier Change,2026-05-17,2026-06-14,In Progress,Medium,Supplier A,96.0
+EC0018,P098,Steering Gear,Material Change,2026-05-15,2026-06-23,Open,Low,Supplier C,90.0
+EC0019,P026,Steering Gear,Supplier Change,2026-09-17,2026-11-01,In Progress,Low,Supplier E,50.0
+EC0020,P003,,Supplier Change,2026-06-15,2026-07-23,in progress,High,Supplier A,65.0
+EC0021,P011,Gearbox,Supplier Change,2026-10-18,2025-12-01,Open,Urgent!!,Supplier B,58.0
+EC0022,P022,Clutch Plate,Material Change,2026-09-01,2026-10-13,Pending,High,Supplier E,98.0
+EC0023,P052,Fuel Injector,Material Change,2026-04-13,2026-05-09,Completed,Medium,Supplier E,78.0
+EC0320,P029,Wheel Bearing,Supplier Change,2026-03-03,2026-03-25,Open,Low,,64.0
+EC0025,P001,Wheel Bearing,Material Change,2026-10-29,2026-11-19,in progress,High,Supplier A,52.0
+EC0026,P066,Air Filter,Supplier Change,2026-06-19,2025-12-01,Pending,High,Supplier E,58.0
+EC0027,P061,Air Filter,Supplier Change,2026-10-20,2026-12-02,Pending,High,Supplier A,56.0
+EC0028,P055,Drive Shaft,Supplier Change,2026-08-09,2026-09-07,Open,Low,Supplier A,53.0
+EC0029,P014,Air Filter,Design Update,2026-07-26,2026-08-23,In Progress,Low,Supplier D,58.0
+EC0030,P036,Engine Mount,Design Update,2026-08-05,2026-08-23,Open,Medium,Supplier E,56.0
+EC0031,P002,Wheel Bearing,Design Update,2026-01-26,2026-03-08,In Progress,Medium,Supplier D,80.0
+EC0032,P008,Steering Gear,Supplier Change,2026-04-20,2026-05-22,Open,Medium,Supplier C,100.0
+EC0033,P055,Gearbox,Material Change,2026-08-21,2026-09-15,Pending,High,Supplier B,68.0
+EC0034,P075,Gearbox,Material Change,2026-04-22,2026-05-02,Open,Low,,53.0
+EC0035,P062,Radiator,Material Change,2026-01-26,2026-03-11,In Progress,High,Supplier E,55.0
+EC0036,P077,Wheel Bearing,Material Change,2026-04-06,2026-04-17,In Progress,Medium,Supplier A,86.0
+EC0037,P077,Brake Disc,Material Change,2026-05-07,2026-06-20,Open,Medium,Supplier E,86.0
+EC0038,P034,Air Filter,Material Change,2026-09-25,2026-10-22,Completed,High,Supplier C,75.0
+EC0039,P059,Oil Pump,Design Update,invalid_date,2026-04-04,Open,Medium,Supplier E,86.0
+EC0040,P069,Air Filter,Material Change,2026-02-21,2026-03-04,Completed,High,Supplier C,54.0
+EC0041,P037,Steering Gear,Supplier Change,2026-05-06,2026-06-05,Completed,Low,Supplier E,50.0
+EC0042,P085,Wheel Bearing,Design Update,2026-10-11,2026-11-06,Completed,High,Supplier A,97.0
+EC0043,P035,Clutch Plate,Material Change,2026-10-11,2026-10-27,In Progress,Low,Supplier C,63.0
+EC0044,P063,Clutch Plate,Design Update,2026-05-16,2026-06-24,Open,Low,Supplier D,67.0
+EC0045,P043,Shock Absorber,Design Update,2026-01-23,2026-01-30,Completed,High,Supplier D,85.0
+EC0046,P002,,unknown type,2026-08-07,2026-09-18,In Progress,Low,Supplier A,73.0
+EC0047,P019,Drive Shaft,unknown type,2026-10-26,2026-12-07,Open,Medium,Supplier C,100.0
+EC0048,P027,Fuel Injector,Design Update,2026-01-21,2026-02-19,Open,Medium,Supplier E,76.0
+EC0185,P021,Shock Absorber,Design Update,2026-03-21,2026-04-12,Pending,High,Supplier B,97.0
+EC0050,P086,Water Pump,Material Change,2026-06-20,2026-07-23,In Progress,Medium,Supplier B,100.0
+EC0051,P005,Water Pump,Supplier Change,2026-02-25,2026-03-28,In Progress,High,Supplier D,72.0
+EC0052,P029,Brake Disc,Material Change,invalid_date,2025-12-01,In Progress,Medium,Supplier C,150.0
+EC0053,P045,Fuel Injector,Material Change,2026-02-05,2026-03-01,Pending,Low,,71.0
+EC0054,P034,Steering Gear,Material Change,2026-01-15,2026-01-29,Completed,High,Supplier A,88.0
+EC0055,P094,Shock Absorber,Supplier Change,2026-08-11,2026-09-09,Pending,Low,Supplier E,57.0
+EC0056,P025,Clutch Plate,Design Update,2026-07-17,2026-08-29,in progress,High,Supplier E,84.0
+EC0057,P056,Wheel Bearing,unknown type,2026-04-11,2026-05-11,Completed,Low,Supplier C,92.0
+EC0058,P065,Clutch Plate,Material Change,2026-03-05,2026-03-31,Pending,Medium,Supplier D,94.0
+EC0059,P017,Air Filter,Supplier Change,2026-06-01,2026-07-13,Pending,Low,Supplier B,89.0
+EC0170,P052,Radiator,Design Update,2026-10-19,2026-11-14,in progress,Medium,Supplier B,77.0
+EC0061,P084,Oil Pump,Supplier Change,2026-10-24,2026-12-08,Pending,Medium,Supplier B,82.0
+EC0062,P085,Wheel Bearing,Supplier Change,2026-08-31,2026-09-17,Completed,High,Supplier B,93.0
+EC0063,P026,Steering Gear,Design Update,2026-06-08,2026-06-29,Open,High,Supplier D,89.0
+EC0064,P054,Alternator,Material Change,2026-02-07,2026-03-15,in progress,Low,Supplier D,120.0
+EC0065,P019,Fuel Injector,Material Change,2026-07-24,2026-08-15,Open,High,Supplier D,64.0
+EC0066,P060,Brake Disc,Material Change,2026-04-01,2026-05-11,In Progress,High,Supplier D,58.0
+EC0067,P072,,Supplier Change,2026-08-26,2026-10-05,Pending,Low,,77.0
+EC0068,P021,Gearbox,Supplier Change,2026-10-08,not_available,Pending,Medium,Supplier B,90.0
+EC0069,P063,Fuel Injector,Design Update,2026-05-22,2026-07-01,Completed,Medium,Supplier A,
+EC0070,P035,Oil Pump,Supplier Change,2026-05-27,2026-06-18,Open,High,Supplier B,64.0
+EC0377,P091,Air Filter,Design Update,2026-07-16,2026-08-01,Pending,Medium,Supplier C,84.0
+EC0072,P008,Air Filter,Supplier Change,2026-08-27,2026-09-29,Pending,Low,Supplier A,98.0
+EC0073,P062,Brake Disc,Supplier Change,2026-10-22,2026-11-22,Completed,Medium,Supplier D,84.0
+EC0074,P029,Engine Mount,Design Update,2026-10-07,2026-11-21,Completed,Medium,Supplier D,51.0
+EC0075,P086,Fuel Injector,Supplier Change,2026-07-19,2026-08-16,In Progress,Medium,Supplier B,89.0
+EC0076,P051,Brake Pad,Material Change,2026-10-01,2026-10-09,Open,High,Supplier D,58.0
+EC0077,P007,Clutch Plate,unknown type,2026-08-25,2026-09-12,Completed,High,Supplier D,70.0
+EC0078,P036,Shock Absorber,Supplier Change,2026-06-22,2026-07-23,Completed,High,Supplier D,51.0
+EC0079,P045,Air Filter,Material Change,2026-10-04,2026-10-14,Open,Low,Supplier A,120.0
+EC0080,P026,Water Pump,Design Update,2026-01-16,2026-02-07,In Progress,High,Supplier B,80.0
+EC0081,P028,Engine Mount,Material Change,2026-02-28,2026-04-12,Completed,Medium,Supplier B,88.0
+EC0082,P040,,Material Change,2026-02-28,2026-03-17,Open,Medium,Supplier E,93.0
+EC0083,P092,Air Filter,Design Update,2026-07-12,2026-08-13,In Progress,Urgent!!,Supplier C,93.0
+EC0084,P006,Oil Pump,Material Change,2026-03-03,2026-04-15,Pending,Low,Supplier C,54.0
+EC0085,P002,Water Pump,Supplier Change,2026-09-17,not_available,Pending,High,Supplier D,73.0
+EC0086,P056,Steering Gear,Material Change,2026-08-24,2026-09-09,Completed,Low,,99.0
+EC0087,P056,,Material Change,2026-09-05,not_available,Completed,Medium,Supplier B,55.0
+EC0419,P032,Shock Absorber,Supplier Change,2026-05-23,2026-06-27,Pending,Medium,Supplier A,81.0
+EC0089,P063,Air Filter,Supplier Change,2026-06-16,2026-07-04,Completed,Medium,Supplier C,88.0
+EC0090,P002,Radiator,Design Update,2026-05-22,2025-12-01,Open,High,Supplier D,81.0
+EC0091,P089,Engine Mount,Material Change,2026-10-12,2026-11-03,Pending,Medium,Supplier A,55.0
+EC0092,P052,Gearbox,Design Update,2026-05-31,2026-06-21,Completed,Low,Supplier E,73.0
+EC0093,P068,Oil Pump,Supplier Change,2026-08-31,2026-10-12,Completed,Medium,Supplier D,67.0
+EC0094,P030,Wheel Bearing,Material Change,2026-06-06,2026-06-29,In Progress,Medium,Supplier A,97.0
+EC0095,P025,Air Filter,Material Change,2026-10-02,2026-10-20,Pending,Medium,Supplier E,98.0
+EC0096,P037,Wheel Bearing,Design Update,2026-09-26,2026-11-10,Completed,High,Supplier C,61.0
+EC0097,P091,Radiator,Design Update,2026-06-04,not_available,Completed,High,Supplier A,85.0
+EC0098,P082,,Supplier Change,2026-05-30,2026-06-14,Open,High,Supplier E,68.0
+EC0099,P057,Oil Pump,Design Update,2026-08-29,2026-10-05,Open,Medium,Supplier D,57.0
+EC0100,P063,Wheel Bearing,Material Change,2026-02-03,2026-03-07,Open,High,Supplier B,86.0
+EC0101,P032,Wheel Bearing,Material Change,2026-06-05,2026-06-17,Pending,Low,Supplier E,100.0
+EC0102,P049,Engine Mount,Supplier Change,2026-04-26,2026-06-05,Completed,Low,Supplier D,69.0
+EC0103,P079,,Design Update,2026-10-19,2026-10-29,In Progress,Low,Supplier B,66.0
+EC0104,P031,Steering Gear,Material Change,2026-02-11,2026-02-28,Open,High,Supplier A,76.0
+EC0105,P061,Clutch Plate,Design Update,2026-08-19,2026-10-03,In Progress,Medium,Supplier C,94.0
+EC0106,P088,Air Filter,Supplier Change,2026-08-21,2026-09-01,In Progress,Medium,Supplier A,-10.0
+EC0107,P035,Water Pump,Design Update,2026-04-26,2026-05-12,Open,Urgent!!,Supplier B,100.0
+EC0108,P096,Water Pump,Material Change,2026-06-07,2026-07-22,Completed,Medium,Supplier A,79.0
+EC0109,P035,Radiator,Material Change,2026-06-05,not_available,Pending,Medium,Supplier A,88.0
+EC0110,P095,Oil Pump,Material Change,2026-01-21,2026-02-24,Completed,High,Supplier A,64.0
+EC0111,P003,Shock Absorber,Material Change,2026-10-22,2026-12-05,Completed,Low,Supplier A,98.0
+EC0112,P067,Fuel Injector,Supplier Change,2026-03-31,2026-05-07,Completed,High,Supplier E,77.0
+EC0113,P061,Oil Pump,Supplier Change,2026-09-09,2026-09-21,Completed,Medium,Supplier A,60.0
+EC0114,P089,Engine Mount,Supplier Change,2026-06-18,2026-07-21,Pending,Low,Supplier A,79.0
+EC0115,P033,Oil Pump,Design Update,2026-02-15,not_available,Pending,Low,Supplier A,92.0
+EC0116,P053,Brake Disc,Design Update,2026-10-05,2026-11-10,Completed,Low,,90.0
+EC0117,P027,Clutch Plate,Material Change,2026-08-15,not_available,In Progress,Medium,Supplier D,94.0
+EC0118,P004,Fuel Injector,Material Change,2026-09-06,2026-09-20,In Progress,Low,Supplier B,69.0
+EC0119,P071,Drive Shaft,Design Update,invalid_date,2026-10-17,In Progress,High,Supplier D,57.0
+EC0120,P092,Clutch Plate,Material Change,2026-03-20,2026-04-27,Completed,Medium,Supplier D,80.0
+EC0121,P071,Steering Gear,Supplier Change,2026-05-05,2026-06-10,In Progress,Urgent!!,Supplier E,97.0
+EC0122,P036,Shock Absorber,Supplier Change,2026-03-11,2026-03-22,Completed,Low,Supplier C,50.0
+EC0123,P076,Brake Pad,Material Change,2026-05-25,2026-06-20,Pending,High,Supplier D,84.0
+EC0124,P043,Radiator,Material Change,2026-09-05,2026-10-04,Pending,Medium,Supplier C,62.0
+EC0125,P050,Air Filter,Supplier Change,2026-05-03,2026-06-15,Open,Medium,Supplier D,95.0
+EC0126,P085,Shock Absorber,Material Change,2026-07-15,2026-08-15,In Progress,Medium,Supplier A,58.0
+EC0127,P043,Water Pump,Design Update,2026-09-15,2026-10-29,Pending,High,Supplier E,79.0
+EC0128,P053,Water Pump,Material Change,2026-01-08,2026-01-24,In Progress,High,,100.0
+EC0129,P080,Gearbox,Supplier Change,2026-05-16,2026-06-13,Open,Medium,Supplier E,74.0
+EC0130,P070,Brake Disc,Material Change,2026-06-12,2026-07-20,Open,High,Supplier C,150.0
+EC0131,P013,Shock Absorber,Material Change,2026-02-16,2026-03-22,in progress,Medium,Supplier B,94.0
+EC0132,P006,Oil Pump,Design Update,invalid_date,2026-06-11,Completed,Medium,Supplier C,77.0
+EC0133,P068,Drive Shaft,Material Change,2026-03-16,2026-04-07,In Progress,High,Supplier B,55.0
+EC0134,P064,Alternator,Material Change,2026-07-15,2026-08-06,In Progress,High,Supplier D,90.0
+EC0135,P033,Fuel Injector,Design Update,2026-05-11,2026-06-16,Pending,Medium,Supplier E,60.0
+EC0136,P045,Brake Pad,Supplier Change,invalid_date,2026-03-14,Pending,Low,Supplier C,79.0
+EC0137,P050,Water Pump,Supplier Change,2026-06-04,2026-06-23,Open,High,Supplier D,86.0
+EC0138,P038,Gearbox,Supplier Change,2026-07-03,2026-08-15,Open,Low,Supplier D,67.0
+EC0139,P088,Shock Absorber,Material Change,2026-01-05,2026-02-17,Open,Low,Supplier D,68.0
+EC0140,P046,Air Filter,Material Change,2026-04-28,2026-06-12,In Progress,Low,Supplier C,93.0
+EC0141,P081,Fuel Injector,Design Update,2026-03-12,2026-03-25,Completed,Medium,Supplier A,87.0
+EC0142,P012,Alternator,Supplier Change,2026-07-06,2026-07-21,Completed,Low,Supplier D,61.0
+EC0143,P070,Alternator,Supplier Change,2026-04-13,2026-04-28,Completed,High,Supplier C,80.0
+EC0144,P015,Engine Mount,Design Update,2026-06-01,2026-06-29,In Progress,High,Supplier D,85.0
+EC0145,P051,Brake Disc,Supplier Change,2026-07-07,2026-07-19,Open,Medium,Supplier C,93.0
+EC0146,P049,Water Pump,Material Change,2026-05-15,2026-06-28,Completed,High,Supplier B,80.0
+EC0147,P042,Alternator,Material Change,2026-01-13,2026-02-24,In Progress,Low,Supplier A,90.0
+EC0148,P084,Drive Shaft,Design Update,2026-08-26,2026-09-21,In Progress,High,Supplier A,69.0
+EC0149,P013,Air Filter,Material Change,2026-09-10,2025-12-01,In Progress,Medium,Supplier D,
+EC0150,P076,Gearbox,Material Change,2026-10-04,2026-11-06,In Progress,Medium,Supplier A,81.0
+EC0151,P005,Gearbox,Supplier Change,2026-07-28,2026-08-21,In Progress,Medium,Supplier D,65.0
+EC0152,P088,Oil Pump,Material Change,invalid_date,2026-07-18,Completed,Urgent!!,Supplier D,67.0
+EC0153,P059,Wheel Bearing,Material Change,2026-04-08,2026-04-22,In Progress,Low,,51.0
+EC0154,P032,Steering Gear,Material Change,2026-01-26,2026-02-23,In Progress,High,Supplier E,63.0
+EC0155,P030,Oil Pump,Design Update,2026-10-28,2026-11-17,Open,Medium,Supplier B,120.0
+EC0156,P023,Wheel Bearing,Material Change,2026-10-04,2026-10-27,Open,High,Supplier A,72.0
+EC0157,P042,Brake Disc,Design Update,2026-05-02,2026-06-15,Completed,High,,97.0
+EC0158,P015,Gearbox,Design Update,2026-08-04,2026-09-13,Pending,Medium,Supplier C,82.0
+EC0159,P065,Air Filter,Material Change,2026-02-25,2026-04-01,Open,Low,Supplier E,69.0
+EC0160,P008,Engine Mount,Supplier Change,2026-08-23,2026-08-31,Pending,Low,,81.0
+EC0161,P011,Oil Pump,Material Change,2026-08-16,2025-12-01,In Progress,High,Supplier B,67.0
+EC0162,P092,Oil Pump,Supplier Change,2026-10-27,2026-12-08,Completed,Medium,Supplier E,88.0
+EC0163,P090,Wheel Bearing,Material Change,2026-08-09,2026-08-22,In Progress,Medium,Supplier D,64.0
+EC0164,P059,Drive Shaft,Supplier Change,2026-07-31,2026-08-28,Open,Medium,Supplier D,70.0
+EC0165,P020,,Supplier Change,2026-05-11,2026-06-10,Open,High,Supplier A,55.0
+EC0166,P096,Gearbox,Supplier Change,2026-08-10,2026-08-23,In Progress,Low,Supplier A,87.0
+EC0167,P043,Fuel Injector,Design Update,2026-10-15,2026-11-26,Pending,Medium,Supplier D,96.0
+EC0168,P077,Clutch Plate,Supplier Change,2026-01-27,2026-02-21,Open,Low,Supplier E,63.0
+EC0169,P029,Water Pump,Design Update,2026-03-21,2026-04-27,Completed,Low,Supplier C,57.0
+EC0170,P029,Shock Absorber,Supplier Change,2026-05-23,2026-07-05,Open,Urgent!!,Supplier C,51.0
+EC0171,P090,Shock Absorber,Supplier Change,2026-04-03,2026-04-27,Completed,Medium,Supplier A,61.0
+EC0172,P085,Drive Shaft,Design Update,2026-03-15,2026-04-27,In Progress,Low,Supplier A,55.0
+EC0173,P049,Drive Shaft,Supplier Change,2026-09-29,2026-10-19,Completed,High,Supplier C,
+EC0174,P077,Wheel Bearing,Design Update,2026-06-16,2026-07-29,In Progress,High,Supplier E,53.0
+EC0175,P057,Fuel Injector,Supplier Change,2026-02-11,2026-03-07,Pending,Low,Supplier D,76.0
+EC0176,P097,Radiator,Design Update,2026-05-20,2026-06-09,Completed,Medium,Supplier A,
+EC0177,P086,Clutch Plate,Design Update,2026-09-07,2026-10-17,In Progress,Medium,,53.0
+EC0178,P039,Air Filter,Design Update,2026-01-04,2026-01-24,Completed,Medium,Supplier C,57.0
+EC0179,P096,Drive Shaft,Design Update,2026-01-04,2026-02-11,In Progress,Medium,Supplier E,95.0
+EC0180,P072,Water Pump,Material Change,2026-04-28,2026-06-06,Completed,High,Supplier D,97.0
+EC0181,P003,Engine Mount,Design Update,2026-01-22,2026-02-25,Completed,Low,Supplier D,86.0
+EC0182,P038,Wheel Bearing,Supplier Change,2026-07-27,2026-08-29,Open,Medium,Supplier B,89.0
+EC0183,P012,Drive Shaft,Design Update,2026-08-24,2026-09-23,In Progress,Medium,Supplier E,75.0
+EC0184,P051,Water Pump,Supplier Change,2026-09-26,not_available,Completed,High,Supplier C,99.0
+EC0185,P066,Fuel Injector,Design Update,2026-03-28,2025-12-01,In Progress,Medium,Supplier C,96.0
+EC0186,P014,Steering Gear,Supplier Change,2026-03-17,2026-04-08,In Progress,High,Supplier E,59.0
+EC0187,P099,Fuel Injector,Supplier Change,2026-02-08,2026-02-26,Pending,Low,Supplier E,78.0
+EC0188,P081,Oil Pump,Design Update,2026-10-17,2026-11-13,in progress,High,Supplier D,78.0
+EC0189,P076,Brake Disc,Supplier Change,2026-06-05,2026-06-29,Open,Medium,Supplier D,78.0
+EC0190,P048,Water Pump,Supplier Change,2026-01-20,2026-01-30,Open,Low,Supplier A,89.0
+EC0191,P060,Brake Pad,Material Change,2026-09-17,2026-10-18,Open,Medium,Supplier E,91.0
+EC0192,P078,,Material Change,2026-04-07,2026-05-04,In Progress,High,Supplier D,56.0
+EC0193,P065,Fuel Injector,Design Update,2026-06-25,2026-07-07,in progress,High,Supplier D,78.0
+EC0194,P079,Steering Gear,Supplier Change,2026-09-26,2026-11-05,Completed,Medium,Supplier D,76.0
+EC0195,P007,Shock Absorber,Material Change,2026-06-23,2026-08-07,in progress,High,Supplier C,56.0
+EC0196,P037,Clutch Plate,Material Change,2026-10-13,2026-11-13,In Progress,Medium,Supplier A,87.0
+EC0197,P040,,Material Change,2026-03-14,2026-04-12,Pending,High,,95.0
+EC0198,P072,Drive Shaft,Material Change,2026-02-13,2026-03-11,Completed,High,Supplier E,55.0
+EC0199,P047,Brake Disc,Supplier Change,2026-08-05,2026-09-13,Completed,High,Supplier B,71.0
+EC0200,P029,Steering Gear,Design Update,2026-09-06,2026-09-25,Open,Medium,Supplier A,82.0
+EC0201,P005,Fuel Injector,Supplier Change,2026-10-04,2026-11-13,In Progress,Low,Supplier D,59.0
+EC0202,P089,Shock Absorber,Material Change,2026-03-25,2026-04-12,In Progress,Low,Supplier D,52.0
+EC0203,P087,Gearbox,Design Update,2026-07-30,2026-08-29,Pending,Low,Supplier C,98.0
+EC0204,P069,Air Filter,Supplier Change,2026-08-18,2026-09-08,Pending,High,Supplier C,93.0
+EC0205,P060,Shock Absorber,Supplier Change,2026-10-20,2026-11-24,Pending,Low,Supplier E,76.0
+EC0206,P078,Steering Gear,Supplier Change,2026-03-24,2026-04-12,Open,Low,Supplier D,73.0
+EC0207,P092,,Material Change,2026-10-11,not_available,Open,Medium,Supplier A,98.0
+EC0208,P058,Alternator,Material Change,2026-03-24,2026-04-17,In Progress,Medium,Supplier A,64.0
+EC0209,P004,Drive Shaft,Design Update,2026-08-19,2026-09-17,Pending,Low,Supplier C,65.0
+EC0210,P048,Air Filter,Design Update,2026-07-17,2026-07-29,Completed,High,Supplier C,100.0
+EC0211,P005,Clutch Plate,Supplier Change,2026-03-16,2026-03-31,In Progress,Low,Supplier D,78.0
+EC0212,P003,Clutch Plate,Design Update,2026-01-03,2026-01-15,In Progress,Low,Supplier E,83.0
+EC0213,P100,Clutch Plate,Design Update,2026-08-05,2026-08-19,Completed,High,Supplier A,65.0
+EC0214,P009,Wheel Bearing,Supplier Change,2026-08-03,2026-09-08,in progress,Low,Supplier E,86.0
+EC0215,P038,Drive Shaft,Design Update,2026-05-04,2026-05-20,Completed,High,Supplier E,76.0
+EC0216,P068,Oil Pump,Design Update,2026-04-06,2026-04-18,Open,Medium,Supplier D,0.0
+EC0217,P033,Gearbox,Design Update,2026-07-18,2026-08-17,Completed,High,Supplier C,65.0
+EC0218,P095,Shock Absorber,Supplier Change,2026-02-23,2026-04-08,In Progress,High,Supplier C,84.0
+EC0219,P100,Fuel Injector,Supplier Change,2026-06-23,2025-12-01,Pending,Low,Supplier B,58.0
+EC0220,P005,,Design Update,2026-02-02,2026-03-10,Open,High,Supplier A,70.0
+EC0221,P051,Water Pump,Material Change,2026-06-08,2026-07-17,Pending,Medium,Supplier A,98.0
+EC0222,P046,Water Pump,Design Update,2026-04-08,2026-05-03,Completed,Medium,Supplier A,73.0
+EC0223,P096,,Supplier Change,2026-08-12,2026-09-13,Completed,High,Supplier D,
+EC0224,P067,Clutch Plate,Design Update,2026-09-12,2026-10-12,Pending,High,Supplier D,88.0
+EC0225,P038,Oil Pump,Design Update,2026-04-03,2026-05-14,Open,Medium,Supplier C,69.0
+EC0226,P092,Drive Shaft,Design Update,2026-08-17,2026-10-01,Pending,Medium,Supplier D,52.0
+EC0227,P036,Fuel Injector,Design Update,2026-06-30,2026-08-03,Open,Low,Supplier D,73.0
+EC0228,P004,Steering Gear,Material Change,2026-09-20,2026-10-07,in progress,High,Supplier B,54.0
+EC0229,P047,Drive Shaft,Material Change,2026-05-01,2026-05-31,Open,Low,Supplier B,93.0
+EC0230,P048,Engine Mount,Design Update,2026-08-19,2026-09-18,In Progress,Low,Supplier C,75.0
+EC0231,P032,Wheel Bearing,Design Update,2026-06-10,2026-07-04,In Progress,Medium,Supplier E,74.0
+EC0232,P034,Shock Absorber,Supplier Change,2026-10-15,2026-10-29,Pending,High,Supplier E,68.0
+EC0233,P016,Steering Gear,Design Update,2026-09-09,2026-09-28,Pending,High,Supplier D,55.0
+EC0234,P091,Wheel Bearing,Material Change,invalid_date,2026-07-12,Completed,Medium,Supplier B,
+EC0235,P066,Air Filter,Design Update,2026-03-31,2026-04-30,In Progress,High,Supplier B,100.0
+EC0236,P047,Radiator,Material Change,2026-09-10,2026-09-18,Completed,Medium,Supplier E,58.0
+EC0237,P040,Drive Shaft,Material Change,2026-02-14,2026-02-25,Pending,Low,Supplier D,99.0
+EC0238,P010,Steering Gear,Supplier Change,2026-07-29,2025-12-01,Open,Medium,Supplier D,93.0
+EC0239,P017,Alternator,Material Change,2026-09-22,2026-10-21,In Progress,High,Supplier D,82.0
+EC0240,P067,Steering Gear,Supplier Change,2026-01-29,2026-02-12,In Progress,High,Supplier C,95.0
+EC0241,P067,Alternator,Supplier Change,2026-04-26,2026-05-25,Open,Medium,Supplier B,90.0
+EC0242,P017,Fuel Injector,Supplier Change,2026-10-10,2026-11-03,Open,Low,Supplier B,87.0
+EC0243,P022,Fuel Injector,Material Change,2026-10-25,2026-11-10,Completed,Low,Supplier A,-10.0
+EC0244,P083,Shock Absorber,Material Change,2026-02-11,2026-02-20,Completed,Low,Supplier B,99.0
+EC0245,P080,,Design Update,2026-10-20,2026-11-22,Pending,Low,Supplier E,68.0
+EC0246,P032,Shock Absorber,Material Change,2026-06-04,2026-07-11,Pending,Medium,Supplier D,54.0
+EC0247,P057,Drive Shaft,Supplier Change,2026-01-31,2026-02-17,Pending,Urgent!!,Supplier C,88.0
+EC0248,P092,Oil Pump,Material Change,2026-03-15,2026-04-11,Completed,Medium,Supplier B,98.0
+EC0249,P072,Wheel Bearing,Supplier Change,2026-07-09,2026-08-17,In Progress,Medium,Supplier A,67.0
+EC0250,P019,Wheel Bearing,Design Update,2026-08-19,2026-09-10,Completed,Medium,Supplier E,76.0
+EC0251,P042,,Material Change,2026-05-08,2026-05-25,Completed,High,Supplier B,
+EC0252,P064,Alternator,Supplier Change,2026-09-21,2026-10-27,Pending,High,Supplier A,75.0
+EC0253,P031,Air Filter,unknown type,2026-09-16,2026-10-22,Completed,High,Supplier A,68.0
+EC0254,P084,Fuel Injector,Supplier Change,2026-09-11,2026-10-26,Completed,Low,Supplier A,56.0
+EC0255,P034,Gearbox,Supplier Change,2026-08-09,2026-08-24,Pending,Urgent!!,Supplier A,75.0
+EC0256,P072,Air Filter,Supplier Change,2026-01-27,2026-03-11,Completed,High,Supplier D,82.0
+EC0257,P036,Water Pump,Material Change,2026-08-19,2026-09-30,Open,High,Supplier A,75.0
+EC0258,P072,Oil Pump,Design Update,2026-07-11,2026-08-08,In Progress,Low,,75.0
+EC0259,P006,Brake Disc,Design Update,2026-09-14,not_available,Completed,Medium,Supplier E,79.0
+EC0260,P066,Steering Gear,Supplier Change,2026-03-18,2026-05-02,Completed,High,Supplier D,89.0
+EC0261,P044,Radiator,Material Change,2026-06-03,2026-07-17,Pending,Low,Supplier E,69.0
+EC0262,P048,Oil Pump,unknown type,2026-09-01,2026-09-09,Open,Medium,Supplier E,69.0
+EC0263,P061,Clutch Plate,Material Change,2026-01-14,2026-02-28,In Progress,Low,Supplier A,87.0
+EC0264,P068,Fuel Injector,Material Change,2026-09-03,2026-09-20,Pending,High,Supplier B,52.0
+EC0265,P025,Brake Disc,Supplier Change,2026-10-21,2026-11-04,Completed,Medium,Supplier B,76.0
+EC0266,P065,Shock Absorber,Material Change,2026-04-15,2026-05-18,Pending,Low,Supplier A,95.0
+EC0267,P027,Radiator,Supplier Change,2026-03-12,2026-04-21,Pending,Low,Supplier D,
+EC0268,P069,Oil Pump,Material Change,2026-03-30,2026-05-05,Completed,Low,Supplier C,89.0
+EC0269,P032,Clutch Plate,Material Change,2026-09-05,2026-09-24,Completed,High,Supplier C,
+EC0270,P089,Gearbox,Supplier Change,2026-05-28,2026-06-17,Completed,Medium,Supplier C,85.0
+EC0271,P016,Brake Pad,Material Change,2026-05-21,2026-06-15,Pending,Medium,Supplier C,99.0
+EC0272,P006,,Material Change,2026-03-16,2026-04-10,Open,Medium,Supplier D,91.0
+EC0273,P028,Air Filter,Material Change,2026-05-12,2026-06-18,Completed,Low,Supplier C,58.0
+EC0274,P031,,Design Update,2026-02-25,2026-04-10,in progress,Low,Supplier B,53.0
+EC0275,P043,Gearbox,Supplier Change,2026-02-21,2026-03-26,Open,Low,Supplier B,50.0
+EC0276,P053,Fuel Injector,Supplier Change,2026-10-09,2026-10-26,Pending,Low,Supplier B,98.0
+EC0277,P037,Fuel Injector,Design Update,2026-05-28,2026-06-24,Open,Low,Supplier E,64.0
+EC0278,P023,Drive Shaft,Design Update,2026-10-01,2026-10-10,Open,Medium,Supplier D,61.0
+EC0279,P002,Clutch Plate,Material Change,2026-05-29,2026-06-07,Open,Medium,Supplier C,79.0
+EC0280,P064,Alternator,Design Update,2026-10-06,2026-11-15,Pending,Medium,Supplier B,57.0
+EC0281,P094,Engine Mount,Material Change,2026-06-19,2026-07-06,Completed,Urgent!!,Supplier B,0.0
+EC0282,P073,Fuel Injector,Design Update,2026-06-22,2026-07-17,In Progress,Low,Supplier D,77.0
+EC0283,P012,Drive Shaft,Material Change,2026-09-21,2026-10-18,Open,High,Supplier B,80.0
+EC0284,P001,Clutch Plate,Supplier Change,2026-06-15,2026-07-07,In Progress,Medium,Supplier C,71.0
+EC0285,P093,Brake Pad,Design Update,2026-06-04,2026-07-18,Completed,Low,Supplier C,94.0
+EC0286,P086,Wheel Bearing,Supplier Change,2026-05-01,2026-05-11,Completed,High,Supplier D,93.0
+EC0287,P089,Wheel Bearing,Material Change,2026-09-15,2026-10-11,Completed,Medium,Supplier E,64.0
+EC0288,P062,Steering Gear,Supplier Change,2026-04-23,2026-05-08,Completed,Medium,Supplier E,80.0
+EC0289,P098,Air Filter,Material Change,2026-10-03,2026-10-23,Open,Low,Supplier D,83.0
+EC0290,P073,Wheel Bearing,Design Update,2026-07-05,2026-07-16,In Progress,Low,Supplier E,59.0
+EC0291,P067,Engine Mount,Design Update,2026-03-26,2026-04-22,In Progress,Low,Supplier E,81.0
+EC0292,P058,Shock Absorber,Design Update,2026-02-16,2026-03-27,Pending,High,Supplier E,76.0
+EC0293,P008,Radiator,Supplier Change,2026-08-22,2026-10-04,Completed,Low,Supplier A,75.0
+EC0294,P096,Air Filter,unknown type,2026-05-11,2026-05-18,Open,High,Supplier D,72.0
+EC0295,P008,Alternator,Design Update,2026-02-02,2026-03-15,Pending,High,Supplier C,76.0
+EC0296,P099,,Material Change,2026-04-03,2026-04-18,Pending,Medium,Supplier D,78.0
+EC0297,P011,Fuel Injector,Material Change,2026-07-13,2026-08-13,In Progress,Low,Supplier C,57.0
+EC0298,P051,Radiator,Design Update,2026-04-02,2026-05-13,In Progress,High,Supplier A,69.0
+EC0299,P055,Radiator,Supplier Change,2026-08-26,2026-10-06,In Progress,High,Supplier D,72.0
+EC0300,P025,Alternator,Material Change,2026-03-21,2026-04-14,Open,High,Supplier D,89.0
+EC0301,P027,Wheel Bearing,Design Update,2026-01-09,2026-01-31,Open,Medium,Supplier E,93.0
+EC0302,P095,Brake Disc,Supplier Change,2026-01-25,not_available,Pending,High,,63.0
+EC0303,P065,Clutch Plate,Design Update,2026-01-29,2026-02-13,Completed,Low,Supplier E,99.0
+EC0304,P039,Alternator,Design Update,2026-06-14,2026-07-06,In Progress,Medium,Supplier C,67.0
+EC0305,P076,Alternator,Material Change,2026-02-01,2026-03-15,in progress,Low,Supplier D,85.0
+EC0306,P045,Fuel Injector,Material Change,2026-09-11,2026-09-21,Pending,Low,Supplier C,
+EC0307,P020,Clutch Plate,Supplier Change,2026-08-02,2026-09-04,In Progress,Low,Supplier D,65.0
+EC0308,P091,Steering Gear,Supplier Change,2026-04-26,2026-05-22,Open,Low,Supplier D,76.0
+EC0309,P018,Drive Shaft,Design Update,2026-10-13,2026-11-22,Completed,High,Supplier C,91.0
+EC0310,P048,Wheel Bearing,Material Change,2026-02-10,2026-03-17,In Progress,High,Supplier C,74.0
+EC0311,P025,Shock Absorber,Material Change,2026-01-21,2026-02-01,In Progress,Medium,Supplier B,71.0
+EC0312,P028,Alternator,Design Update,2026-06-05,2026-06-12,Open,Low,Supplier D,65.0
+EC0313,P031,Radiator,Supplier Change,2026-04-15,2026-05-17,Completed,Medium,Supplier D,84.0
+EC0314,P034,Oil Pump,Material Change,2026-07-03,2026-07-29,Pending,Medium,Supplier A,96.0
+EC0315,P027,,Supplier Change,2026-08-29,2026-09-25,Pending,High,Supplier E,64.0
+EC0316,P034,Radiator,Material Change,2026-03-16,2026-03-24,Pending,Medium,Supplier B,62.0
+EC0317,P049,Brake Pad,Design Update,2026-06-18,2026-07-09,Pending,Low,Supplier C,66.0
+EC0318,P059,Steering Gear,Material Change,2026-09-08,2026-10-16,Completed,High,Supplier B,96.0
+EC0319,P024,Alternator,Material Change,2026-10-07,2026-11-14,Open,Low,Supplier A,54.0
+EC0320,P053,Steering Gear,Material Change,2026-01-25,2026-02-01,in progress,High,Supplier B,50.0
+EC0321,P059,Oil Pump,Design Update,2026-04-22,2026-05-31,Pending,Low,,51.0
+EC0322,P071,Drive Shaft,Design Update,2026-01-04,2026-02-14,Open,Low,Supplier C,84.0
+EC0323,P065,Water Pump,Material Change,2026-05-27,2026-06-04,Pending,High,Supplier A,0.0
+EC0324,P031,Air Filter,Material Change,2026-09-26,2026-10-12,Completed,Medium,Supplier C,100.0
+EC0325,P048,,Supplier Change,2026-07-23,2026-08-04,In Progress,Low,Supplier B,69.0
+EC0326,P012,Drive Shaft,Supplier Change,2026-02-11,2026-02-20,Pending,Low,Supplier D,53.0
+EC0327,P011,Engine Mount,Supplier Change,2026-01-05,2026-01-22,Completed,Low,Supplier A,83.0
+EC0328,P028,Alternator,Material Change,2026-01-22,2026-02-12,in progress,Medium,Supplier A,54.0
+EC0329,P073,Fuel Injector,Design Update,2026-05-24,2026-07-04,In Progress,Medium,Supplier A,63.0
+EC0330,P097,Water Pump,Material Change,invalid_date,2026-11-13,Pending,High,Supplier C,60.0
+EC0331,P073,Water Pump,Supplier Change,2026-10-16,2026-11-07,Completed,Medium,Supplier B,100.0
+EC0191,P096,Oil Pump,Design Update,2026-02-10,2026-03-21,Open,Medium,Supplier B,54.0
+EC0333,P099,Brake Pad,Material Change,2026-06-24,2026-08-08,Pending,Medium,Supplier A,90.0
+EC0334,P063,Air Filter,Supplier Change,2026-05-20,2026-06-24,in progress,Medium,Supplier B,93.0
+EC0335,P011,Shock Absorber,Material Change,2026-10-27,2026-11-27,in progress,High,Supplier A,55.0
+EC0336,P049,Gearbox,Material Change,2026-05-18,2026-06-03,In Progress,Low,Supplier D,70.0
+EC0337,P012,Brake Disc,Supplier Change,2026-07-04,2026-07-17,Pending,Medium,Supplier C,56.0
+EC0338,P024,Drive Shaft,Supplier Change,2026-03-09,2026-03-21,Pending,High,Supplier A,55.0
+EC0339,P012,Brake Pad,Material Change,2026-07-01,2026-08-12,in progress,Medium,Supplier A,120.0
+EC0048,P100,Wheel Bearing,Material Change,2026-07-31,2026-08-31,In Progress,Low,Supplier E,60.0
+EC0341,P018,Clutch Plate,Supplier Change,2026-07-14,2026-07-31,Completed,Medium,Supplier B,54.0
+EC0342,P036,Drive Shaft,Supplier Change,2026-03-27,2026-04-30,Pending,High,Supplier C,66.0
+EC0343,P077,Brake Pad,unknown type,2026-05-07,2026-06-14,Pending,High,Supplier B,69.0
+EC0344,P043,Water Pump,Material Change,2026-01-04,2026-02-05,Pending,Urgent!!,Supplier D,71.0
+EC0345,P018,Clutch Plate,Supplier Change,2026-08-09,2026-09-23,In Progress,Medium,Supplier C,61.0
+EC0346,P038,Gearbox,Material Change,2026-07-23,2026-08-19,Pending,Low,Supplier B,70.0
+EC0347,P051,,Design Update,2026-07-12,2025-12-01,In Progress,Low,Supplier E,61.0
+EC0348,P094,Engine Mount,Material Change,2026-10-09,2026-10-17,In Progress,Medium,Supplier C,94.0
+EC0349,P087,Engine Mount,Design Update,2026-02-05,2026-03-10,Completed,High,Supplier C,92.0
+EC0350,P049,Wheel Bearing,Supplier Change,2026-03-20,2026-04-23,Pending,Low,Supplier D,84.0
+EC0351,P070,Brake Disc,Supplier Change,2026-09-17,2026-10-20,Open,High,Supplier B,92.0
+EC0352,P083,Brake Pad,Design Update,2026-07-01,2026-07-18,Pending,Medium,Supplier D,150.0
+EC0353,P034,Air Filter,Material Change,2026-01-06,2026-01-19,In Progress,Urgent!!,Supplier C,75.0
+EC0354,P089,Radiator,Design Update,2026-08-26,2026-10-09,in progress,High,Supplier D,56.0
+EC0355,P011,Wheel Bearing,Material Change,2026-06-01,2026-07-04,In Progress,Medium,Supplier C,71.0
+EC0356,P067,Engine Mount,Supplier Change,2026-08-22,2026-09-11,Pending,High,,-10.0
+EC0357,P009,Clutch Plate,Design Update,2026-08-20,2026-09-16,Open,High,Supplier C,91.0
+EC0358,P095,Air Filter,Material Change,2026-02-25,2026-03-14,In Progress,Low,Supplier B,71.0
+EC0359,P060,Air Filter,Supplier Change,2026-10-14,2026-11-17,In Progress,High,Supplier D,75.0
+EC0360,P058,Brake Pad,Supplier Change,2026-01-15,2026-02-03,Pending,High,Supplier B,-10.0
+EC0361,P074,Wheel Bearing,Material Change,2026-05-23,2026-06-03,In Progress,Medium,Supplier C,62.0
+EC0362,P034,Fuel Injector,Supplier Change,2026-08-23,2026-09-06,Completed,Low,Supplier D,89.0
+EC0363,P015,Oil Pump,Supplier Change,2026-07-20,2026-09-02,Pending,Low,Supplier B,93.0
+EC0364,P011,Fuel Injector,Design Update,2026-06-02,2026-07-16,Completed,High,Supplier B,69.0
+EC0365,P048,Gearbox,Design Update,2026-03-01,2026-03-19,in progress,Medium,Supplier E,58.0
+EC0366,P055,Steering Gear,Supplier Change,2026-10-22,2026-11-22,In Progress,Low,Supplier B,81.0
+EC0367,P024,Oil Pump,Supplier Change,2026-05-28,2026-06-12,Open,Medium,Supplier A,81.0
+EC0368,P050,Radiator,Material Change,2026-03-11,2026-03-30,Pending,Medium,Supplier D,76.0
+EC0369,P022,Wheel Bearing,Material Change,2026-08-16,2026-09-23,Open,High,Supplier C,52.0
+EC0370,P069,Clutch Plate,Design Update,2026-05-21,2026-06-11,Pending,Low,Supplier D,85.0
+EC0371,P074,Wheel Bearing,Supplier Change,invalid_date,2026-10-03,Completed,Low,Supplier A,98.0
+EC0372,P028,Drive Shaft,Design Update,2026-08-14,2026-09-24,In Progress,Medium,Supplier A,78.0
+EC0373,P012,Engine Mount,Design Update,2026-05-15,not_available,In Progress,High,Supplier E,
+EC0374,P022,Brake Pad,Design Update,2026-06-29,2026-08-02,In Progress,High,Supplier A,86.0
+EC0375,P036,,Material Change,2026-06-29,2026-08-09,In Progress,Medium,Supplier C,68.0
+EC0376,P066,Alternator,Material Change,2026-10-21,not_available,Open,High,,53.0
+EC0377,P090,Water Pump,Design Update,2026-05-22,2026-06-06,In Progress,High,Supplier C,65.0
+EC0378,P019,Brake Pad,Material Change,2026-07-21,2026-08-28,Completed,Low,Supplier D,74.0
+EC0379,P082,Shock Absorber,Design Update,2026-08-20,2025-12-01,Pending,Low,Supplier C,94.0
+EC0380,P063,Oil Pump,Material Change,2026-07-08,2026-08-13,Open,Low,Supplier A,96.0
+EC0381,P009,Shock Absorber,Material Change,2026-08-23,2026-09-21,Pending,High,Supplier D,63.0
+EC0382,P042,Water Pump,Supplier Change,2026-09-11,2026-10-05,Completed,Low,Supplier E,58.0
+EC0383,P044,Alternator,Material Change,2026-10-17,2026-11-24,Open,High,Supplier A,90.0
+EC0384,P016,Alternator,Design Update,2026-08-24,2026-09-01,Pending,Medium,Supplier A,77.0
+EC0385,P084,Clutch Plate,Design Update,2026-04-14,not_available,Completed,High,Supplier C,66.0
+EC0386,P086,Alternator,Material Change,2026-02-12,2026-03-14,In Progress,High,Supplier D,90.0
+EC0387,P055,Fuel Injector,Design Update,2026-06-06,2026-06-27,Open,High,Supplier B,80.0
+EC0388,P076,,Material Change,2026-02-09,2026-02-24,Pending,High,Supplier A,94.0
+EC0225,P055,Gearbox,Design Update,2026-06-25,2026-07-09,Pending,High,Supplier B,74.0
+EC0390,P014,Oil Pump,Supplier Change,2026-02-15,2026-02-28,Completed,High,Supplier D,99.0
+EC0391,P009,,Material Change,2026-03-10,2026-03-26,Open,Low,Supplier B,78.0
+EC0392,P081,,Design Update,2026-06-29,2026-07-19,Pending,Low,Supplier D,63.0
+EC0393,P018,Shock Absorber,Design Update,2026-02-14,2026-02-27,Pending,Medium,Supplier D,70.0
+EC0394,P036,Fuel Injector,Design Update,2026-03-13,2026-04-04,In Progress,Low,Supplier E,88.0
+EC0395,P085,Alternator,Supplier Change,2026-05-26,2026-06-03,in progress,Low,Supplier E,82.0
+EC0396,P038,Fuel Injector,Design Update,2026-04-07,2026-05-09,In Progress,Medium,Supplier D,57.0
+EC0397,P082,,Design Update,2026-05-04,2026-06-11,Open,Medium,Supplier C,58.0
+EC0398,P054,Oil Pump,Material Change,2026-07-18,2026-08-30,In Progress,Medium,Supplier A,51.0
+EC0399,P002,Clutch Plate,Design Update,2026-10-28,2026-11-08,Open,High,Supplier D,82.0
+EC0400,P099,,unknown type,2026-05-27,2026-07-05,Pending,High,Supplier E,84.0
+EC0401,P011,Clutch Plate,Design Update,2026-03-20,2026-04-13,In Progress,High,Supplier E,70.0
+EC0402,P082,Shock Absorber,Material Change,2026-07-20,2026-09-02,Open,Medium,Supplier D,96.0
+EC0403,P032,,Supplier Change,2026-05-03,2026-05-13,Open,Medium,Supplier E,88.0
+EC0404,P086,Gearbox,Material Change,2026-01-29,2026-02-24,In Progress,High,Supplier A,95.0
+EC0405,P021,Engine Mount,Supplier Change,2026-03-12,2026-03-19,Completed,High,Supplier C,58.0
+EC0406,P099,Alternator,Design Update,2026-05-18,2026-06-01,in progress,Medium,Supplier C,83.0
+EC0407,P092,Brake Pad,Material Change,2026-02-02,2026-02-25,Open,Medium,Supplier D,82.0
+EC0408,P064,Water Pump,Material Change,2026-07-04,2026-07-14,In Progress,Medium,Supplier B,66.0
+EC0409,P087,Gearbox,Design Update,2026-02-22,2026-04-06,In Progress,Low,Supplier E,50.0
+EC0410,P032,Brake Disc,Supplier Change,2026-01-23,2026-01-30,Completed,Medium,Supplier B,61.0
+EC0411,P092,Gearbox,Material Change,2026-01-19,2025-12-01,Pending,High,Supplier C,65.0
+EC0412,P035,Water Pump,Design Update,2026-08-02,2026-08-29,Completed,High,Supplier E,93.0
+EC0413,P029,Shock Absorber,Material Change,2026-01-27,2026-02-14,Open,Medium,Supplier A,79.0
+EC0414,P042,Wheel Bearing,Material Change,2026-05-25,2026-06-20,Pending,High,Supplier C,62.0
+EC0415,P039,Gearbox,Material Change,2026-05-30,2026-07-12,In Progress,Medium,Supplier C,87.0
+EC0416,P094,Alternator,Material Change,2026-09-10,not_available,In Progress,High,Supplier A,76.0
+EC0417,P070,Oil Pump,Material Change,2026-01-13,2025-12-01,Open,Medium,Supplier A,98.0
+EC0418,P014,Air Filter,Material Change,2026-07-12,2026-08-07,In Progress,Medium,Supplier D,53.0
+EC0419,P012,Brake Disc,Design Update,2026-03-14,2026-04-07,Pending,Low,Supplier C,79.0
+EC0420,P013,Radiator,Design Update,2026-02-13,2026-03-29,Pending,High,Supplier E,86.0
+EC0421,P085,Steering Gear,Design Update,2026-02-01,2026-03-07,Completed,Medium,Supplier C,75.0
+EC0422,P058,Clutch Plate,Design Update,2026-06-17,2026-07-14,Open,High,,99.0
+EC0423,P020,Wheel Bearing,Design Update,2026-10-27,2026-11-09,Pending,Medium,Supplier C,76.0
+EC0424,P046,Shock Absorber,Design Update,2026-03-03,2026-04-13,Pending,Medium,Supplier D,66.0
+EC0425,P021,Shock Absorber,Material Change,2026-03-03,2026-03-15,Completed,Low,Supplier E,52.0
+EC0426,P019,Wheel Bearing,Material Change,2026-04-21,2026-05-18,In Progress,Medium,Supplier D,82.0
+EC0427,P034,,Design Update,2026-01-26,2026-02-21,Open,Medium,Supplier D,85.0
+EC0428,P013,Engine Mount,unknown type,2026-10-09,2026-10-31,In Progress,High,Supplier A,53.0
+EC0429,P026,Water Pump,Supplier Change,2026-04-24,2026-05-09,in progress,Low,Supplier A,87.0
+EC0430,P010,Brake Disc,Design Update,2026-10-28,2026-11-20,In Progress,Low,Supplier D,58.0
+EC0431,P016,Brake Disc,Supplier Change,2026-02-17,2026-03-17,Open,High,Supplier E,77.0
+EC0432,P004,Drive Shaft,Material Change,2026-07-22,2026-08-29,Pending,High,Supplier C,63.0
+EC0433,P036,Engine Mount,Design Update,2026-04-06,2026-04-30,Open,Low,Supplier E,89.0
+EC0434,P064,Drive Shaft,Material Change,2026-05-06,2026-05-31,Pending,High,Supplier A,67.0
+EC0435,P054,Air Filter,Material Change,2026-07-16,2026-07-31,In Progress,Low,Supplier E,100.0
+EC0459,P092,Oil Pump,Supplier Change,2026-01-10,2026-02-10,Pending,Medium,Supplier E,82.0
+EC0451,P035,Steering Gear,Design Update,2026-06-14,2025-12-01,Completed,Low,Supplier B,51.0
+EC0438,P061,Radiator,Supplier Change,2026-05-24,2026-06-03,In Progress,High,Supplier A,65.0
+EC0439,P069,Water Pump,Material Change,2026-05-04,2026-05-28,Open,High,Supplier E,74.0
+EC0440,P023,Air Filter,Material Change,2026-07-01,2026-07-19,Completed,Low,Supplier C,87.0
+EC0441,P073,Brake Pad,Design Update,2026-01-15,2026-02-13,In Progress,Medium,Supplier E,69.0
+EC0442,P005,Wheel Bearing,Design Update,2026-03-31,2026-05-08,In Progress,Low,Supplier B,51.0
+EC0443,P001,Oil Pump,Material Change,2026-09-27,2026-11-03,In Progress,High,Supplier C,95.0
+EC0444,P008,Brake Disc,Design Update,2026-04-01,2026-04-28,In Progress,High,Supplier E,73.0
+EC0445,P091,Fuel Injector,Supplier Change,2026-02-07,2026-03-09,Open,Medium,Supplier C,70.0
+EC0446,P094,Drive Shaft,Material Change,2026-03-11,2026-03-28,Pending,Low,Supplier C,61.0
+EC0447,P029,Fuel Injector,Material Change,2026-10-15,2026-11-13,In Progress,Medium,Supplier C,96.0
+EC0448,P023,Gearbox,Design Update,2026-05-31,2025-12-01,Pending,Low,Supplier A,61.0
+EC0449,P082,Brake Pad,Design Update,2026-06-12,2026-07-03,in progress,High,Supplier C,97.0
+EC0450,P045,Oil Pump,Design Update,2026-02-09,2026-03-03,Open,Low,,78.0
+EC0451,P027,Air Filter,Material Change,2026-01-06,2026-01-29,Open,Medium,Supplier C,100.0
+EC0452,P007,Drive Shaft,Supplier Change,2026-02-25,2026-03-04,Pending,High,Supplier D,81.0
+EC0453,P070,Drive Shaft,Design Update,2026-07-13,2026-08-11,Pending,Low,Supplier B,60.0
+EC0454,P005,Clutch Plate,Design Update,2026-08-20,2026-08-31,Completed,Medium,Supplier A,54.0
+EC0455,P049,Steering Gear,Material Change,2026-06-25,2026-07-12,Open,Low,Supplier A,
+EC0491,P056,Fuel Injector,Design Update,2026-09-05,2026-09-13,Pending,High,Supplier A,56.0
+EC0457,P025,,Material Change,2026-06-19,2026-07-09,Completed,Low,Supplier C,69.0
+EC0458,P007,Drive Shaft,Material Change,2026-05-02,2026-05-15,Pending,High,Supplier A,73.0
+EC0459,P012,Clutch Plate,Material Change,2026-01-02,2026-02-05,Pending,High,Supplier A,51.0
+EC0460,P082,Clutch Plate,Design Update,2026-04-16,2026-05-03,Pending,High,Supplier C,100.0
+EC0461,P063,Alternator,Material Change,2026-07-23,2026-08-29,Completed,High,Supplier E,74.0
+EC0462,P049,Oil Pump,Design Update,2026-04-05,2026-05-05,Pending,High,Supplier C,
+EC0463,P029,Water Pump,Supplier Change,2026-08-27,2026-09-19,Open,High,Supplier A,55.0
+EC0464,P053,Shock Absorber,Material Change,invalid_date,2026-08-06,In Progress,Low,Supplier A,74.0
+EC0465,P069,Fuel Injector,unknown type,2026-09-25,not_available,In Progress,Medium,Supplier C,55.0
+EC0466,P065,Brake Pad,Material Change,2026-07-22,2026-07-31,In Progress,High,Supplier D,61.0
+EC0467,P025,Steering Gear,Design Update,2026-03-27,2026-04-16,Pending,Urgent!!,Supplier D,62.0
+EC0468,P034,Oil Pump,Material Change,2026-03-17,2026-05-01,Open,High,Supplier D,85.0
+EC0469,P042,Water Pump,Supplier Change,2026-07-23,2026-09-03,Pending,High,Supplier E,87.0
+EC0470,P015,Drive Shaft,Design Update,2026-09-25,2026-10-28,In Progress,Low,Supplier E,87.0
+EC0471,P073,Shock Absorber,Design Update,2026-02-21,not_available,Completed,Low,Supplier C,76.0
+EC0472,P084,Engine Mount,Material Change,2026-05-16,2026-06-16,Pending,High,Supplier B,67.0
+EC0473,P080,Brake Pad,Material Change,2026-07-26,2026-08-11,Pending,High,Supplier D,71.0
+EC0474,P096,Engine Mount,Supplier Change,2026-05-02,2026-05-12,Completed,High,Supplier C,100.0
+EC0475,P036,Water Pump,Supplier Change,2026-06-05,2026-07-01,Open,High,Supplier B,69.0
+EC0476,P035,Gearbox,Supplier Change,2026-08-15,2026-09-11,Open,High,Supplier D,63.0
+EC0477,P098,Radiator,Supplier Change,2026-07-28,2026-09-04,Open,Low,Supplier B,54.0
+EC0478,P052,Steering Gear,Material Change,2026-06-09,2026-07-18,Open,Urgent!!,Supplier B,62.0
+EC0479,P005,Engine Mount,Design Update,2026-01-30,2026-02-21,Completed,Low,Supplier B,67.0
+EC0480,P065,Drive Shaft,Material Change,2026-07-08,2026-08-13,Open,Low,Supplier A,65.0
+EC0481,P077,Engine Mount,Design Update,2026-07-10,2026-08-17,Pending,Low,Supplier E,72.0
+EC0482,P034,Gearbox,Material Change,2026-06-26,2026-07-13,Open,Medium,Supplier A,74.0
+EC0483,P074,Shock Absorber,Design Update,2026-01-26,2026-02-12,In Progress,Low,Supplier B,93.0
+EC0484,P084,Drive Shaft,Material Change,2026-04-16,2026-05-10,Open,Low,Supplier A,80.0
+EC0485,P077,Shock Absorber,Design Update,2026-03-09,2026-03-27,In Progress,Medium,Supplier E,69.0
+EC0486,P049,Water Pump,Supplier Change,2026-05-21,not_available,Pending,Medium,Supplier B,
+EC0487,P080,,unknown type,2026-06-04,2026-07-14,Open,High,Supplier E,92.0
+EC0488,P083,Brake Pad,Material Change,2026-07-11,2026-08-22,Completed,Medium,Supplier A,80.0
+EC0489,P036,Fuel Injector,Supplier Change,2026-02-02,2026-03-02,Completed,Medium,Supplier C,62.0
+EC0490,P098,Air Filter,Design Update,2026-03-18,2026-04-27,Pending,Low,Supplier C,93.0
+EC0491,P084,Engine Mount,Supplier Change,2026-03-13,2026-03-21,Completed,Medium,Supplier D,74.0
+EC0492,P091,Brake Pad,Design Update,2026-01-19,2026-03-04,Completed,Low,Supplier B,93.0
+EC0493,P086,Oil Pump,Material Change,2026-10-01,2026-11-07,Completed,High,Supplier E,61.0
+EC0494,P061,Steering Gear,Material Change,2026-05-31,2026-06-13,Completed,Low,Supplier E,98.0
+EC0495,P084,,Design Update,2026-04-04,2026-05-02,Completed,High,Supplier C,76.0
+EC0496,P034,Brake Pad,Supplier Change,2026-06-19,2026-07-19,Pending,High,Supplier D,53.0
+EC0497,P080,Wheel Bearing,Supplier Change,2026-10-26,2026-12-09,In Progress,Low,Supplier A,93.0
+EC0498,P039,Drive Shaft,Design Update,2026-07-15,2026-08-24,In Progress,High,Supplier B,71.0
+EC0499,P059,Steering Gear,Supplier Change,2026-07-29,2026-09-10,In Progress,High,Supplier D,71.0
+EC0500,P082,Brake Disc,Design Update,2026-04-01,2026-04-28,Pending,Medium,Supplier B,98.0
+EC0362,P034,Fuel Injector,Supplier Change,2026-08-23,2026-09-06,Completed,Low,Supplier D,89.0
+EC0074,P029,Engine Mount,Design Update,2026-10-07,2026-11-21,Completed,Medium,Supplier D,51.0
+EC0375,P036,,Material Change,2026-06-29,2026-08-09,In Progress,Medium,Supplier C,68.0
+EC0156,P023,Wheel Bearing,Material Change,2026-10-04,2026-10-27,Open,High,Supplier A,72.0
+EC0105,P061,Clutch Plate,Design Update,2026-08-19,2026-10-03,In Progress,Medium,Supplier C,94.0
+EC0395,P085,Alternator,Supplier Change,2026-05-26,2026-06-03,in progress,Low,Supplier E,82.0
+EC0378,P019,Brake Pad,Material Change,2026-07-21,2026-08-28,Completed,Low,Supplier D,74.0
+EC0125,P050,Air Filter,Supplier Change,2026-05-03,2026-06-15,Open,Medium,Supplier D,95.0
+EC0069,P063,Fuel Injector,Design Update,2026-05-22,2026-07-01,Completed,Medium,Supplier A,
+EC0451,P027,Air Filter,Material Change,2026-01-06,2026-01-29,Open,Medium,Supplier C,100.0
+EC0010,P094,,Design Update,2026-03-29,not_available,Pending,Medium,Supplier C,90.0
+EC0195,P007,Shock Absorber,Material Change,2026-06-23,2026-08-07,in progress,High,Supplier C,56.0
+EC0407,P092,Brake Pad,Material Change,2026-02-02,2026-02-25,Open,Medium,Supplier D,82.0
+EC0085,P002,Water Pump,Supplier Change,2026-09-17,not_available,Pending,High,Supplier D,73.0
+EC0372,P028,Drive Shaft,Design Update,2026-08-14,2026-09-24,In Progress,Medium,Supplier A,78.0
