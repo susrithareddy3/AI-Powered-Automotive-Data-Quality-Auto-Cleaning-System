@@ -16,7 +16,7 @@ from google.genai import errors
 # ---------------------------------------------------------
 st.set_page_config(
     page_title="Automotive Data Intelligence",
-    page_icon="🚗",
+    page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -66,7 +66,7 @@ for key, default_value in {
 # SIDEBAR NAVIGATION AND FILE UPLOAD
 # ---------------------------------------------------------
 with st.sidebar:
-    st.title("🚗 AutoData AI")
+    st.title("🤖 AutoData AI")
     st.caption("Automotive Data Intelligence Platform")
     st.divider()
 
@@ -283,7 +283,7 @@ def clean_dataset(source_df):
 # ---------------------------------------------------------
 # COMMON PAGE HEADER
 # ---------------------------------------------------------
-st.title("🚗 AI-Powered Automotive Data Quality & Auto-Cleaning System")
+st.title("🤖 AI-Powered Automotive Data Quality & Auto-Cleaning System")
 
 if df is None:
     st.info(
